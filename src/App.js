@@ -5,10 +5,10 @@ export default function App() {
   return (
     <div>
       <h1>STONK-MANAGER</h1>
-      <p>Stonks0</p>
-      <p>Stonks1</p>
-      <p>Stonks2</p>
-      <p>Stonks3</p>
+      <p>Stonk0</p>
+      <p>Stonk1</p>
+      <p>Stonk2</p>
+      <p>Stonk3</p>
       <p>.</p>
       <p>.</p>
       <p>.</p>
