@@ -1,3 +1,5 @@
-# react-mubpef
+#README
+(c) 2021 MULTIJACKER
+STONK-MANAGER
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-mubpef)
+React based stock management application.
