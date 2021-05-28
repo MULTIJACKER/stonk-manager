@@ -3,3 +3,6 @@
 STONK-MANAGER
 
 React based stock management application.
+
+Link:
+https://stonk-manager.stackblitz.io/
